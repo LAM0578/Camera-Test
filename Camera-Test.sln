@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demigiant.DOTween", "Demigiant.DOTween.csproj", "{68DB3116-D1F4-B0C7-A809-A2A153EC8BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraTest", "CameraTest.csproj", "{5E612B6E-C3BC-76DC-41C1-242120D35E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraTest.Util", "CameraTest.Util.csproj", "{E2B086F6-69CA-C4BB-4CD3-15E273B798FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DB3116-D1F4-B0C7-A809-A2A153EC8BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DB3116-D1F4-B0C7-A809-A2A153EC8BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DB3116-D1F4-B0C7-A809-A2A153EC8BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DB3116-D1F4-B0C7-A809-A2A153EC8BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E612B6E-C3BC-76DC-41C1-242120D35E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E612B6E-C3BC-76DC-41C1-242120D35E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E612B6E-C3BC-76DC-41C1-242120D35E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E612B6E-C3BC-76DC-41C1-242120D35E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B086F6-69CA-C4BB-4CD3-15E273B798FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B086F6-69CA-C4BB-4CD3-15E273B798FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B086F6-69CA-C4BB-4CD3-15E273B798FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B086F6-69CA-C4BB-4CD3-15E273B798FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

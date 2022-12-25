@@ -1,0 +1,15 @@
+{
+    "name": "CameraTest",
+    "references": [
+        "Demigiant.DOTween",
+        "CameraTest.Util"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
